@@ -1,0 +1,25 @@
+{
+  "name": "starweb-tween",
+  "description": "Frame-driven tween manager with easing for the browser",
+  "author": "Mason L'Etoile",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/starlet-web-engine/starweb-tween"
+  },
+  "keywords": ["tween", "animation", "easing", "typescript", "browser"],
+  "version": "1.0.0",
+  "type": "module",
+  "devDependencies": {
+    "typescript": "~6.0.2"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.build.json"
+  },
+  "exports": {
+    "./*": {
+      "types": "./dist/*.d.ts",
+      "import": "./dist/*.js"
+    }
+  }
+}
