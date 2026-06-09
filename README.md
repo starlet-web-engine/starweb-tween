@@ -8,15 +8,15 @@ Frame-driven tween manager with easing for the browser, built with TypeScript.
 </p>
 
 ## Modules
-| Module | Description |
-| ------ | ----------- |
-| `easing` | Easing functions and lookup table |
-| `manager` | Frame-driven tween manager |
-| `types` | Tween config, handle, and target types |
+| Module    | Description                            |
+| ------    | -----------                            |
+| `easing`  | Easing functions and lookup table      |
+| `manager` | Frame-driven tween manager             |
+| `types`   | Tween config, handle, and target types |
 
 ## Installation
 ```bash
-npm install github:starlet-web-engine/starweb-tween
+npm install github:starweb-libs/tween
 ```
 
 ## License

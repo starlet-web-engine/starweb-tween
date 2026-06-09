@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/starlet-web-engine/starweb-tween"
+    "url": "https://github.com/starweb-libs/tween"
   },
   "keywords": ["tween", "animation", "easing", "typescript", "browser"],
   "version": "1.0.0",
